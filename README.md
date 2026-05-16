@@ -110,11 +110,7 @@ python mini_siem.py
 
 ## Screenshot
 
-Add your dashboard screenshot here:
-
-```markdown
 ![Mini SIEM Dashboard](screenshot.png)
-```
 
 ---
 
